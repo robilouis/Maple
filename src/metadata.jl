@@ -101,7 +101,7 @@ const default_meta = Dict{String, Any}(
     "Portraits" => "",
     "Sprites" => "",
 
-    "OverrideASideMeta" => false,
+    "OverrideASideMeta" => true,
 
     "PostcardSoundID" => ""
 )
